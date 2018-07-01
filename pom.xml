@@ -11,6 +11,7 @@
     <modules>
         <module>eventbus-test</module>
         <module>beetlsql-test</module>
+        <module>rocketmq-test</module>
     </modules>
 
     <properties>
